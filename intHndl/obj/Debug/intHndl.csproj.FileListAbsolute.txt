@@ -1,0 +1,14 @@
+C:\Users\taham\source\repos\intHndl\intHndl\bin\Debug\intHndl.exe.config
+C:\Users\taham\source\repos\intHndl\intHndl\bin\Debug\intHndl.exe
+C:\Users\taham\source\repos\intHndl\intHndl\bin\Debug\intHndl.pdb
+C:\Users\taham\source\repos\intHndl\intHndl\obj\Debug\intHndl.csprojAssemblyReference.cache
+C:\Users\taham\source\repos\intHndl\intHndl\obj\Debug\intHndl.csproj.CoreCompileInputs.cache
+C:\Users\taham\source\repos\intHndl\intHndl\obj\Debug\intHndl.exe
+C:\Users\taham\source\repos\intHndl\intHndl\obj\Debug\intHndl.pdb
+D:\intHndl\intHndl\intHndl\obj\Debug\intHndl.csprojAssemblyReference.cache
+D:\intHndl\intHndl\intHndl\obj\Debug\intHndl.csproj.CoreCompileInputs.cache
+D:\intHndl\intHndl\intHndl\obj\Debug\intHndl.exe
+D:\intHndl\intHndl\intHndl\obj\Debug\intHndl.pdb
+D:\intHndl\intHndl\intHndl\bin\Debug\intHndl.exe.config
+D:\intHndl\intHndl\intHndl\bin\Debug\intHndl.exe
+D:\intHndl\intHndl\intHndl\bin\Debug\intHndl.pdb
